@@ -28,6 +28,6 @@ We've performed the following wrangling:
 ## Key Insights for Presentation
 
 * Airlines are the main factor that explain delays in the US. 
-* 95\% of the arrival delay is explained by the departure delay.
+* 95\% of the arrival delay is explained by the departure delay, the other 5\% is mainly explained by National Air Service related delays in arrival procedures.
 * Hubs are the main pain point for Airlines.
 
